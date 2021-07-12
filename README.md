@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Node.js is an open-source, cross-platform, JavaScript runtime environment. It
+Node.js is a super awesome, open-source, cross-platform, JavaScript runtime environment. Not Python. It
 executes JavaScript code outside of a browser. For more information on using
 Node.js, see the [Node.js Website][].
 
